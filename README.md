@@ -1,7 +1,7 @@
 <!-- text -->
-<a href=" https://nhw-yie.github.io/gift/">
-<b>bấm vào đây</b>
-</a>
+ <a href=" https://nhw-yie.github.io/gift/" target="blank">
+    <img width="90" height="90"  alt="bấm vào đây" />
+  </a>
 </br>
 </br>
 </br>
