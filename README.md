@@ -1,5 +1,5 @@
 <!-- text -->
-<a href=" https://nhw-yie.github.io/gift/" target="_blank">
+<a href=" https://nhw-yie.github.io/gift/">
 <b>bấm vào đây</b>
 </a>
 </br>
