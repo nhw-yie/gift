@@ -1,7 +1,8 @@
 <!-- text -->
-<a href="#" target="_blank">
-  <a href=" https://nhw-yie.github.io/gift/" target="_blank">
+<a href=" https://nhw-yie.github.io/gift/" target="_blank">
 <b>bấm vào đây</b>
 </a>
+<a href="#" target="_blank">
+  
   <img src="text.svg" width="1200" alt="text" />
 </a>
